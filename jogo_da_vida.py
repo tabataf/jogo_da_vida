@@ -3,9 +3,9 @@ import pygame
 import numpy
 
 COLOR_BACKGROUND = (10, 10, 10)
-COLOR_GRID = (40, 40, 40)
-COLOR_DYING = (144, 197, 250)
-COLOR_ALIVE = (80, 30, 200)
+COLOR_GRID = (20, 30, 40)
+COLOR_DYING = (219,112,147)
+COLOR_ALIVE = (199,21,133)
 
 def update(screen, cells, size, progress=False):
     update_cells = numpy.zeros((cells.shape[0], cells.shape[1]))
