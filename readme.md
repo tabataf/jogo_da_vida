@@ -6,6 +6,7 @@ to get started follow the steps below:
 * pip install requirements.txt
 * python3 jogo_da_vida.py
 * to start the game press the space bar on the keyboard
+O jogo em Python fica assim:
 
 ## VUE.JS
 * cd vue
@@ -15,4 +16,6 @@ to get started follow the steps below:
 * vue create seu_projeto
 * cd seu_projeto
 * npm run serve
+
+veja a versão em vue: 
 

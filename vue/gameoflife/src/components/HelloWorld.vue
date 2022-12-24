@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>{{ msg }}</h1>
     <div class="tabuleiro">
       <div class="tabuleiro_linha">
         <div id="l1c1" class="quadrado"></div>
@@ -45,28 +44,46 @@
         <div id="l6c5" class="quadrado"></div>
       </div>
     </div>
+    <a class="link" href="https://github.com/tabataf">By: Tábata de Faria</a>
   </div>
 </template>
 
 <script>
+import { METHODS } from 'http';
+
 export default {
   name: "HelloWorld",
   props: {
     msg: String,
   },
+  methods: {
+  if
+  }
 };
 </script>
 <style scoped>
+.vivo {
+  background-color: aquamarine;
+}
 .quadrado {
   border: pink 0.5px solid;
   border-collapse: separate;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
   display: inline-block;
 }
-
+.link {
+  color: rgb(132, 127, 131);
+}
 .tabuleiro_linha {
   margin: 0;
   display: flex;
+}
+
+.tabuleiro {
+}
+
+.vivo {
+  background-color: rgb(164, 150, 206);
 }
 </style>
