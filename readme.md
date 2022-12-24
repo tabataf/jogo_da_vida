@@ -16,10 +16,9 @@ to get started follow the steps below:
 * npm install -g vue-cli
 * cd gameoflife
 * vue create project
-* cd sproject
+* cd project
 * npm run serve
 
 See the vue version:
-* https://jogo-da-vida-5swgegya9-tabataf.vercel.app/#/
-
+* https://jogo-da-vida-g1is5rht9-tabataf.vercel.app/#/
 
