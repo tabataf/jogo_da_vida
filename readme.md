@@ -1,4 +1,4 @@
-# **Project life!**
+# **Project  game life!**
 to get started follow the steps below:
 
 ## PYTHON
