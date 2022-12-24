@@ -12,11 +12,11 @@ to get started follow the steps below:
 
 ## VUE.JS
 * cd vue
-* npm install (caso não tenha)
+* npm install (if you don't have)
 * npm install -g vue-cli
 * cd gameoflife
-* vue create seu_projeto
-* cd seu_projeto
+* vue create project
+* cd sproject
 * npm run serve
 
 See the vue version:
