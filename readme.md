@@ -8,6 +8,8 @@ to get started follow the steps below:
 * to start the game press the space bar on the keyboard
 O jogo em Python fica assim:
 
+![jodo_da_vida](https://user-images.githubusercontent.com/104364324/209416956-0261e188-df24-4dad-8d5a-55b99939b33d.gif)
+
 ## VUE.JS
 * cd vue
 * npm install (caso não tenha)
@@ -17,5 +19,8 @@ O jogo em Python fica assim:
 * cd seu_projeto
 * npm run serve
 
+<<<<<<< HEAD
 veja a versão em vue: 
+=======
+>>>>>>> 8ddbde170290af128b617dda0be499a4af5eed9c
 
