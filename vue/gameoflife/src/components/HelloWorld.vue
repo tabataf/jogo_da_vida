@@ -49,16 +49,15 @@
 </template>
 
 <script>
-import { METHODS } from 'http';
-
+// import { METHODS } from 'http';
 export default {
   name: "HelloWorld",
   props: {
     msg: String,
   },
-  methods: {
-  if
-  }
+  // methods: {
+  //   q= false
+  // }
 };
 </script>
 <style scoped>
