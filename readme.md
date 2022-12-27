@@ -15,8 +15,6 @@ to get started follow the steps below:
 * npm install (if you don't have)
 * npm install -g vue-cli
 * cd gameoflife
-* vue create project
-* cd project
 * npm run serve
 
 See the vue version:
