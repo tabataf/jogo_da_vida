@@ -17,7 +17,7 @@ to get started follow the steps below:
 * npm install (if you don't have)
 * npm install -g vue-cli
 * cd gameoflife
-* **to fix the files: npm run lint**
+* **to fix the files: npm run lint or npm run lint --fix**
 * npm run serve
 
 See the vue version:
