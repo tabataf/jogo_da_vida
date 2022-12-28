@@ -9,7 +9,7 @@
 import GameOfLife from "@/components/GameOfLife.vue";
 
 export default {
-  name: "Game",
+  name: "GameLife",
   components: {
     GameOfLife,
   },
