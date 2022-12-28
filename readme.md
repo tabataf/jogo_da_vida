@@ -26,5 +26,6 @@ cd gameoflife
  ```
 
 See the vue version:
-* [https://jogo-da-vida-g1is5rht9-tabataf.vercel.app/#/](https://jogo-da-vida-buu5afbbg-tabataf.vercel.app/#/)
+
+![jogodavida_vue](https://user-images.githubusercontent.com/104364324/209827355-1f1b46c7-f26f-4c52-854b-fb36d5a5b000.gif)
 
