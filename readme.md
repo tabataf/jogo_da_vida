@@ -21,5 +21,5 @@ to get started follow the steps below:
 * npm run serve
 
 See the vue version:
-* https://jogo-da-vida-g1is5rht9-tabataf.vercel.app/#/
+* [https://jogo-da-vida-g1is5rht9-tabataf.vercel.app/#/](https://jogo-da-vida-buu5afbbg-tabataf.vercel.app/#/)
 
