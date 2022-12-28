@@ -2,6 +2,7 @@
 to get started follow the steps below:
 
 ## PYTHON
+* clone the repository
 * cd python
 * pip install requirements.txt
 * python3 jogo_da_vida.py
@@ -11,15 +12,14 @@ to get started follow the steps below:
 ![jodo_da_vida](https://user-images.githubusercontent.com/104364324/209416956-0261e188-df24-4dad-8d5a-55b99939b33d.gif)
 
 ## VUE.JS
+* clone the repository
 * cd vue
 * npm install (if you don't have)
 * npm install -g vue-cli
 * cd gameoflife
-* vue create project
-* cd sproject
+* **to fix the files: npm run lint**
 * npm run serve
 
 See the vue version:
-* https://jogo-da-vida-5swgegya9-tabataf.vercel.app/#/
-
+* https://jogo-da-vida-g1is5rht9-tabataf.vercel.app/#/
 
