@@ -29,3 +29,6 @@ See the vue version:
 
 ![jogodavida_vue](https://user-images.githubusercontent.com/104364324/209827355-1f1b46c7-f26f-4c52-854b-fb36d5a5b000.gif)
 
+
+game link: https://jogo-da-vida-es304ol3l-tabataf.vercel.app/#/
+
