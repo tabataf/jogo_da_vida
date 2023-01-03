@@ -5,7 +5,7 @@ to get started follow the steps below:
 * clone the repository
 ``` 
 cd python
-pip install requirements.txt
+pip install -r requirements.txt
 python3 jogo_da_vida.py
 ```
 * to start the game press the space bar on the keyboard
@@ -17,8 +17,8 @@ python3 jogo_da_vida.py
 * clone the repository
 ```
 cd vue
-npm install (if you don't have)
 cd gameoflife
+npm install (if you don't have)
 ```
  **to fix the files: npm run lint or npm run lint --fix**
  ```
