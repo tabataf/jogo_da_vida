@@ -37,7 +37,7 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((800, 600))
 
-    cells = numpy.zeros((80, 80))
+    cells = numpy.zeros((150, 150))
     screen.fill(COLOR_GRID)
     update(screen, cells, 10)
 
@@ -68,7 +68,7 @@ def main():
             cells = update(screen, cells, 10, progress=True)
             pygame.display.update()
         
-        time.sleep(0.001)
+        time.sleep(0.002)
 
 
 if __name__ == '__main__':
